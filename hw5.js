@@ -1,6 +1,6 @@
 // Scott Nedvesky
 // Web API CSCI 3800
-// HW4 - The purpose of this assignment is to store information about movies and create a proxy with a Node.js server to interact with the apigee backend service
+// HW5 - The purpose of this assignment is to store information about movies and create a proxy with a Node.js server to interact with the apigee backend service
 
 var express = require('express');
 var app = express();
