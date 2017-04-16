@@ -1,0 +1,34 @@
+{
+	"id": "294cc803-e037-d0e6-529a-bbb8e4a84f17",
+	"name": "HW4",
+	"description": "",
+	"order": [
+		"d2a107e1-5b82-dda1-632c-faacc4b8188e"
+	],
+	"folders": [],
+	"timestamp": 1491108738887,
+	"owner": "1537171",
+	"public": false,
+	"requests": [
+		{
+			"id": "d2a107e1-5b82-dda1-632c-faacc4b8188e",
+			"headers": "",
+			"url": "https://snedvesky-test.apigee.net/hw4",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "294cc803-e037-d0e6-529a-bbb8e4a84f17",
+			"data": null,
+			"dataMode": "params",
+			"name": "https://snedvesky-test.apigee.net/hw4",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1491108738887,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
