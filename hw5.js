@@ -30,8 +30,8 @@ app.post('/posts', function (req, res) {
     if (req.method === 'POST') if (Object.keys(req.query).length > 0) {
 
         var title = request_data.title;
-        var year = 	request_data.year;
-        var cast = 	request_data.cast;
+        var year = request_data.year;
+        var cast = request_data.cast;
 
             // Create New Object
             var tmp = {};
